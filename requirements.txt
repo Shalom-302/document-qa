@@ -1,2 +1,11 @@
 streamlit
-openai
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+extract-msg<=0.29
+textract
+langchain-community
